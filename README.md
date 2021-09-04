@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snipezzz1
-- 👀 I’m interested in the dev 
-- 🌱 I’m currently learning  le  lua, et autre code
+- 👀 I am interested in dev 
+- 🌱 I’m currently learning lua, and other code
 
 <!---
 snipezzz1/snipezzz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
